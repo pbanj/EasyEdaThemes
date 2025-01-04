@@ -499,10 +499,6 @@ a.l-btn:hover {
     cursor: ns-resize !important;
 }
 
-.layout-toggler>div {
-    visibility: hidden !important;
-}
-
 /* Left Bar */
 
 .libgroupcaption {
